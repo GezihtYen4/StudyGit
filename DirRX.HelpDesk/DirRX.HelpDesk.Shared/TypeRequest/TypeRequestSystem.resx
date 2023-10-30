@@ -62,11 +62,22 @@
     <value>Name</value>
   </data>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <data name="Property_Responsible" xml:space="preserve">
     <value>Responsible</value>
 =======
   <data name="Property_Note" xml:space="preserve">
     <value>Note</value>
 >>>>>>> test
+=======
+  <data name="Property_Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Enum_Type_Access" xml:space="preserve">
+    <value>Access</value>
+  </data>
+  <data name="Enum_Type_Wish" xml:space="preserve">
+    <value>Wish</value>
+>>>>>>> 161f5a0 (Add Type)
   </data>
 </root>
