@@ -80,4 +80,7 @@
     <value>Желаемый</value>
 >>>>>>> 161f5a0 (Add Type)
   </data>
+  <data name="Property_Code" xml:space="preserve">
+    <value>Код</value>
+  </data>
 </root>
